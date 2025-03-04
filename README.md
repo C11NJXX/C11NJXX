@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/C11NJXX](https://github.com/C11NJXX)
 
-- 📝 I regularly write articles on [http://c11njxx.github.io/](http://c11njxx.github.io/)
-
 - 📫 How to reach me **c_11njxxsmailbox@gmail.com**
 
 <h3 align="left">Languages and Tools(ing):</h3>
