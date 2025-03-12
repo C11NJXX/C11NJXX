@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm C_11nJxx</h1>
 <h3 align="center">A College Student From China</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **webpack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/C11NJXX](https://github.com/C11NJXX)
 
