@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Frontend+Developer;Web+Enthusiast&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Frontend+developer&center=true&size=20">
 </p>
 
 ---
@@ -39,6 +39,9 @@
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
 
