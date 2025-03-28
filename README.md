@@ -52,6 +52,9 @@
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="zustand" width="40" height="40"/>
   </a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="40" height="40"/>
+  </a>
 </p>
 
 ---
