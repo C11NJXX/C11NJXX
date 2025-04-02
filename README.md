@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React Monster Class**
+- 🌱 I’m currently learning **Next JS**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/C11NJXX)
 - 📫 How to reach me **c11njxxsmailbox@gmail.com**
 
