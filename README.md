@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently building projects with **Next.js & React**
 - 🌱 Deepening my knowledge in **Full-stack Development**
-- 📝 I write technical articles on my blog: [**blog-code-nine.vercel.app**](https://blog-code-nine.vercel.app/)
+- 📝 I write technical articles on my blog: [**C_11nJxx's Blog**](https://c11njxx.cn)
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/C11NJXX)
 - 📫 Reach me at **c_11njxxsmailbox@sina.com**
 
