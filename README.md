@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm C11NJXX</h1>
+<h1 align="center">Hi,I'm C11NJXX</h1>
 <h3 align="center">Full Stack Develop & AI Enthusiast</h3>
 
 
