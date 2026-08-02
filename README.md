@@ -42,9 +42,3 @@
   <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C11NJXX&theme=radical" alt="Contribution Graph" />
-</p>
